@@ -1,2 +1,12 @@
 # LIgong_Quadrupedal
-Quadrupedal Projecy  
+Quadrupedal Project
+# Info
+
+
+
+# User Requirement
+
+
+
+
+#
