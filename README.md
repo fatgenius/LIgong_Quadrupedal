@@ -33,6 +33,11 @@ https://github.com/fatgenius/LIgong_Quadrupedal.git
   - 积累理论 40%
   - 用 gazebo进行运动仿真 10%
 
+#操作系统 
+    - Ubuntu 18.04 LTS
+    - ROS melodic  
+    - python 3.7
+    
 # 仿真部分（代码在 catkin_ws 里持续贡献中）
  - 每个腿 6DOF
  - 输入maxcon关节电机信息
