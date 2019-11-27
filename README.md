@@ -39,5 +39,8 @@ https://github.com/fatgenius/LIgong_Quadrupedal.git
  - 加入普通重力模型
  - 低俗度行动
  - solidworks to URDF use opensource:  https://github.com/ros/solidworks_urdf_exporter/releases
+ - 里工机器人仿真 world ： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_gazebo/worlds
+ - 里工机器人仿真 BringUp和launch 文件： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_gazebo/launch 
+ - 里工机器人urdf模型 通过Solidworks至今导出 描述在： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_description
  
 # 图形
