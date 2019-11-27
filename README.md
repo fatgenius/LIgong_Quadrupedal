@@ -44,3 +44,4 @@ https://github.com/fatgenius/LIgong_Quadrupedal.git
  - 里工机器人urdf模型 通过Solidworks至今导出 描述在： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_description
  
 # 图形
+![](picture/simulation.jpg)
