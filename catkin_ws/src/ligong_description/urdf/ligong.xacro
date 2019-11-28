@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+	<robot name="ligong">
+<!-- Put here the robot description -->
+<!--the robot fram for world frame -->
+	<link name ="world"/>
+	<joint name="glue robot to world" type ="fixed" >
+		<parent link = "world" />
+		<child link = "link" />	
+	</joint>
+	
+
+
+		
+</robot>
