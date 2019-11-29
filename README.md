@@ -47,6 +47,10 @@ https://github.com/fatgenius/LIgong_Quadrupedal.git
  - 里工机器人仿真 world ： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_gazebo/worlds
  - 里工机器人仿真 BringUp和launch 文件： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_gazebo/launch 
  - 里工机器人urdf模型 通过Solidworks至今导出 描述在： https://github.com/fatgenius/LIgong_Quadrupedal/tree/master/catkin_ws/src/ligong_description
- 
+ # ROS control
+  - with a keyboard control
+  - with a kinematic model to control our gait in the gazebo
+  
+
 # 图形
 ![](picture/simulation.jpg)
