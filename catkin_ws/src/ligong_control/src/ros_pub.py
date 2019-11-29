@@ -44,7 +44,7 @@ def ros_pub_cb(action_command_msg):
             pause.sleep()
         j = j + 1
 
-def stay_in_place():
+def stay_in_place()
     zeros = Float64()
     zeros.data = 0.2
     joint1_pos_pub.publish(0)
