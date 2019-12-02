@@ -53,4 +53,4 @@ https://github.com/fatgenius/LIgong_Quadrupedal.git
   
 
 # 图形
-![](pictures/simulation.jpg)
+![](picture/simulation.jpg)
